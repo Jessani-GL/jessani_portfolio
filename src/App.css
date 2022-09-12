@@ -1,6 +1,7 @@
 .App {
   /* text-align: left; */
   font-family: Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
 }
 
 .App-logo {

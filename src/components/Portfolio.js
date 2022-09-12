@@ -6,7 +6,7 @@ import project2 from "../assets/images/forum_demo.gif";
 
 import "../App.css";
 
-function About() {
+function Portfolio() {
   return (
     <Container>
       <div className="portfolio box">
@@ -56,7 +56,7 @@ function About() {
                   <span className="texColor-accent">Forum Webapp</span>
                 </h4>
                 <p>
-                  Simple social media website for industry. Technology consists
+                  Simple social media website for a industry demographic. Technology consists
                   of Javascript ES6, React.js, Node.js, HTML, CSS and Bootstrap.
                 </p>
                 <p>
@@ -85,4 +85,4 @@ function About() {
   );
 }
 
-export default About;
+export default Portfolio;

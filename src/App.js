@@ -12,16 +12,16 @@ function App() {
   return (
     <div className="App">
       <NavigationBar />
-      <div className="App-container">
+      <div className="App-container" id="home">
         <Header />
       </div>
-      <div className="content-container">
+      <div className="content-container" id="about">
         <About />
       </div>
-      <div className="content-container">
+      <div className="content-container" id="portfolio">
         <Portfolio />
       </div>
-      <div className="content-container">
+      <div className="content-container" id="contact">
         <Contact />
       </div>
       <div className="footer-content">
