@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/jessani_portfolio/static/css/main.078046d8.css",
-    "main.js": "/jessani_portfolio/static/js/main.1bb99853.js",
+    "main.js": "/jessani_portfolio/static/js/main.bbba6052.js",
     "static/js/787.1ed0c42c.chunk.js": "/jessani_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/graphic_demo.gif": "/jessani_portfolio/static/media/graphic_demo.e23307feaf61d2619a4b.gif",
     "static/media/forum_demo.gif": "/jessani_portfolio/static/media/forum_demo.9bf3fce58a17b0e00d54.gif",
     "static/media/profile.jpg": "/jessani_portfolio/static/media/profile.1681c8796d26bdabff3b.jpg",
     "static/media/header.png": "/jessani_portfolio/static/media/header.352030a1c758adc5cc0f.png",
-    "static/media/logo.svg": "/jessani_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jessani_portfolio/index.html",
     "main.078046d8.css.map": "/jessani_portfolio/static/css/main.078046d8.css.map",
-    "main.1bb99853.js.map": "/jessani_portfolio/static/js/main.1bb99853.js.map",
+    "main.bbba6052.js.map": "/jessani_portfolio/static/js/main.bbba6052.js.map",
     "787.1ed0c42c.chunk.js.map": "/jessani_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078046d8.css",
-    "static/js/main.1bb99853.js"
+    "static/js/main.bbba6052.js"
   ]
 }
