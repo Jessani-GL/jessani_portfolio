@@ -7,7 +7,7 @@ function NavigationBar() {
   return (
     <Navbar expand="lg" variant="dark" className='custom-navbar' fixed='top'>
       <Container>
-        <Navbar.Brand href="#" className='textColor-secondary'>
+        <Navbar.Brand href="#" className='textColor-secondary text-bold'>
           <span className='textColor-primary'>jessan</span>i.
           </Navbar.Brand>
         <Nav>

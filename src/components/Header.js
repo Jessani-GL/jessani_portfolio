@@ -15,13 +15,13 @@ function Header() {
         <img src={bannerImg} alt ='banner'/>
         <Col>
           <div className="text-align-left">
-            <p>Hello, I am Jessani</p>
+            <p>Hello, I am Jessani.</p>
             <h1 className="header-font-size">
              i'm a software engineer.
             </h1>
             <p>
               I am pursuing to specialise in creating websites and mobile
-              applications
+              applications.
             </p>
           </div>
         </Col>
