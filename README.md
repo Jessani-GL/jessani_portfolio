@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my portfolio website.
+This is my portfolio website. Visit my portfolio here : https://jessani-gl.github.io/jessani_portfolio/
 
 ## Technology
 
