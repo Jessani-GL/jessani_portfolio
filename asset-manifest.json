@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/jessani_portfolio/static/css/main.078046d8.css",
-    "main.js": "/jessani_portfolio/static/js/main.bbba6052.js",
+    "main.css": "/jessani_portfolio/static/css/main.bad1339c.css",
+    "main.js": "/jessani_portfolio/static/js/main.531ccf28.js",
     "static/js/787.1ed0c42c.chunk.js": "/jessani_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/medical_application.mov": "/jessani_portfolio/static/media/medical_application.1cca6012c75967297524.mov",
+    "static/media/socialmedia.mov": "/jessani_portfolio/static/media/socialmedia.34ce56dc88103f5e2f5b.mov",
     "static/media/graphic_demo.gif": "/jessani_portfolio/static/media/graphic_demo.e23307feaf61d2619a4b.gif",
     "static/media/forum_demo.gif": "/jessani_portfolio/static/media/forum_demo.9bf3fce58a17b0e00d54.gif",
-    "static/media/profile.jpg": "/jessani_portfolio/static/media/profile.1681c8796d26bdabff3b.jpg",
+    "static/media/profile.jpg": "/jessani_portfolio/static/media/profile.063e3c06974d797b1f52.jpg",
     "static/media/header.png": "/jessani_portfolio/static/media/header.352030a1c758adc5cc0f.png",
     "index.html": "/jessani_portfolio/index.html",
-    "main.078046d8.css.map": "/jessani_portfolio/static/css/main.078046d8.css.map",
-    "main.bbba6052.js.map": "/jessani_portfolio/static/js/main.bbba6052.js.map",
+    "main.bad1339c.css.map": "/jessani_portfolio/static/css/main.bad1339c.css.map",
+    "main.531ccf28.js.map": "/jessani_portfolio/static/js/main.531ccf28.js.map",
     "787.1ed0c42c.chunk.js.map": "/jessani_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.078046d8.css",
-    "static/js/main.bbba6052.js"
+    "static/css/main.bad1339c.css",
+    "static/js/main.531ccf28.js"
   ]
 }
