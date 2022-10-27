@@ -88,7 +88,7 @@
 .about-box {
   
   margin: auto;
-  padding: 7rem 10rem;
+  padding: 7rem 5rem;
   /* padding-left: 15rem; */
   background: #282828;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -128,6 +128,12 @@
   border: 2px solid #ffffff;
 }
 
+.video-responsive {
+  width: 100%;
+  height: 100%;
+  border: 2px solid #ffffff;
+}
+
 .img-profile {
   margin-left: 7rem;
   width: 70%;
@@ -152,4 +158,23 @@
   background: #282828;
  
   font-size: 15.3px;
+}
+
+/* Levitate animation */
+#btn-up  {
+  position: relative;
+  top: 0;
+  transition: top ease 0.8s;
+}
+#btn-up:hover {
+  top: -3px;
+}
+
+#moveup  {
+  position: relative;
+  top: 0;
+  transition: top ease 0.8s;
+}
+#moveup:hover {
+  top: -15px;
 }

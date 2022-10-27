@@ -8,13 +8,13 @@ function NavigationBar() {
     <Navbar expand="lg" variant="dark" className='custom-navbar' fixed='top'>
       <Container>
         <Navbar.Brand href="#" className='textColor-secondary text-bold'>
-          <span className='textColor-primary'>jessan</span>i.
+          <span className='textColor-primary'  id='btn-up'>jessan</span>i.
           </Navbar.Brand>
         <Nav>
-            <Nav.Link href="#home">home.</Nav.Link>
-            <Nav.Link href="#about">about.</Nav.Link>
-            <Nav.Link href="#portfolio">portfolio.</Nav.Link>
-            <Nav.Link href="#contact">contact.</Nav.Link>
+            <Nav.Link href="#home" id='btn-up'>home.</Nav.Link>
+            <Nav.Link href="#about" id='btn-up'>about.</Nav.Link>
+            <Nav.Link href="#portfolio" id='btn-up'>portfolio.</Nav.Link>
+            <Nav.Link href="#contact" id='btn-up'>contact.</Nav.Link>
             
           </Nav>
       </Container>
