@@ -87,7 +87,8 @@ function Portfolio() {
               <video
                 width="320"
                 height="240"
-                autoplay="autoplay"
+                // autoplay="autoplay"
+                controls
                 muted
                 className="img-responsive"
               >
@@ -158,8 +159,8 @@ function Portfolio() {
               <video
                 width="320"
                 height="240"
-                // controls
-                autoplay="autoplay"
+                controls
+                // autoplay="autoplay"
                 muted
                 className="video-responsive"
               >
